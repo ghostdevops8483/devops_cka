@@ -7,10 +7,14 @@ metadata:
   name: nginx
 spec:
 <<<<<<< HEAD
+<<<<<<< HEAD
   replicas: 1
 =======
   replicas: 3
 >>>>>>> fae952b (first commit)
+=======
+  replicas: 1
+>>>>>>> 757c8a5 (updated replicas)
   selector:
     matchLabels:
       app: nginx
