@@ -8,6 +8,7 @@ metadata:
 spec:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   replicas: 1
 =======
   replicas: 3
@@ -15,6 +16,9 @@ spec:
 =======
   replicas: 1
 >>>>>>> 757c8a5 (updated replicas)
+=======
+  replicas: 3
+>>>>>>> be7b337 (updated replicas)
   selector:
     matchLabels:
       app: nginx
